@@ -10,7 +10,7 @@ class DylanStarship:
         self.name = ["Dylan", "Junluo CHEN"]
         self.researcher = True
         self.weapon = ["credible causal inference", "behavioral decision theory"]
-        self.focus = ["healthcare", "online community", "AI in organization", "human-AI interaction"]
+        self.focus = ["online community", "corporate governance", "social justice"]
 
     def biu(self):
         print("I'm glad you read my intro! Please also visit my website chen-junluo.com")
